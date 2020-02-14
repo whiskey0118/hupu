@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<html class="expanded">
+<head>
+<meta charset='utf-8'>
+<meta name="renderer" content="webkit" />
+<meta name="mobile-agent" content="format=html5;url=https://m.hupu.com/nba/teams/spurs/players">
+<link rel="alternate" media="only screen and (max-width: 375px)" href="https://m.hupu.com/nba/teams/spurs/players" >
+<title>
+马刺队球员名单|马刺队员|马刺阵容
+</title>
+
+</script>
+
+<meta http-equiv="Content-Type" content="text/html" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="keywords" content="马刺队球员名单,马刺队员,马刺阵容" />
+<meta name="description" content="本页面提供马刺队15人大名单、马刺队最新阵容名单以及马刺队球员资料，更多马刺队球员资料，尽在虎扑nba球队球员页面。" />
+<meta name="Author" content="NBA" />
+
+<link rel="dns-prefetch" href="//w1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//w2.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//w3.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//w4.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//b1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//b2.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//b3.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//i1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//i2.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//i3.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//t1.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//t2.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//t3.hoopchina.com.cn" />
+<link rel="dns-prefetch" href="//shihuo.hupucdn.com" />
+<link rel="dns-prefetch" href="//img1.hupucdn.com" />
+<link rel="dns-prefetch" href="//img2.hupucdn.com" />
+<link rel="canonical" href="http://nba.hupu.com/players">
+
+
+<meta name="apple-itunes-app" content="app-id=906632439" />
+<link rel="shortcut icon" href="//b3.hoopchina.com.cn/common/favicon.ico" />
+<link type="text/css" rel="stylesheet" href="//b3.hoopchina.com.cn/common/common-v1.css" />
+<script src="//b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js"></script>
+<script src="//b3.hoopchina.com.cn/common/common-v1.js"></script>
+<script src="//b3.hoopchina.com.cn/common/jquery.js" type="text/javascript"></script>
+<script type='text/javascript'>
+        /*var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();*/
+    </script>
+
+
+<link rel="stylesheet" type="text/css" href="//w2.hoopchina.com.cn/channel/gamespace/static/common/common_7253bb8.css"/><link rel="stylesheet" type="text/css" href="//w1.hoopchina.com.cn/channel/gamespace/static/team/playerList/playerList_73c2eb4.css"/><link rel="stylesheet" type="text/css" href="//w1.hoopchina.com.cn/channel/gamespace/static/common/widget/page-tab/page-tab_815858f.css"/></head>
+<body>
+<!--topbarNav star-->
+                        <div id="hp-topbarNav">
+                            <div class="hp-topbarNav-bd">
+                                <ul class="hp-quickNav">
+                                    <li class="mobileWeb"><a href="javascript:void(0)" onclick="hp_quick_touch()"><i class="ico-mobile"></i>手机虎扑</a></li>
+                                    <li class="line">|</li>
+                                    <li class="mobileclientDown"><a class="red" href="https://mobile.hupu.com/?_r=globalNav" target="_blank">虎扑客户端</a></li>
+                                    <li class="line">|</li>
+                                    <li class="hp-dropDownMenu topFollowBlog">
+                                        <a href="javascript:void(0)" class="hp-set">关注虎扑<s class="setArrow"></s></a>
+                                        <div class="hp-drapDown followLayer">
+                                            <a class="weibo" target="_blank" rel="nofollow" href="//weibo.com/liangle4u"><i class="hp-ico-weibo"></i>新浪微博</a>
+											<a class="weixin" target="_blank" href="https://voice.hupu.com/other/1581560.html"><i class="hp-ico-weixin"></i>官方微信</a>
+                                            <a class="instagram" target="_blank" rel="nofollow" href="https://voice.hupu.com/other/1634334.html"><i class="hp-ico-instagram"></i>Instagram</a>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="hp-topLogin-info"></div>
+                            </div>
+                        </div>
+                        <!--topbarNav ent--><!--header star--><div class="hp-header hp-header-A"><div class="hp-logo"><a title="虎扑篮球" href="https://nba.hupu.com/"><img src="https://b3.hoopchina.com.cn/images/logo2017/v1/hp_logo_nba.png" alt="NBA" width="140px" height="52px"/></a>
+                            </div>
+                            <div class="hp-mainNav hp-mainNav-B">
+                                <div class="hp-nav">
+                                    <div class="hp-nav-bd">
+                                        <ul class="hp-nav-item"><li><a href="https://www.hupu.com/" >虎扑首页</a></li><li class="line">|</li><li class="on"><a href="https://nba.hupu.com/" >NBA</a></li><li class="line">|</li><li><a href="https://cba.hupu.com/" >CBA</a></li><li class="line">|</li><li><a href="https://gg.hupu.com" >电竞</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com" >国际足球</a></li><li class="line">|</li><li><a href="https://soccer.hupu.com/china/" >中国足球</a></li><li class="line">|</li><li><a href="http://zb.hupu.com/" target="_blank">装备</a></li><li class="line">|</li><li><a href="http://www.shihuo.cn/" target="_blank">识货</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/" >社区</a></li><li class="line">|</li><li><a href="https://bbs.hupu.com/all-gambia" >步行街</a></li><li class="line">|</li><li><a href="http://www.liangle.com" target="_blank">路人王</a></li><li class="line">|</li><li class="hp-dropDownMenu hp-moreNav">
+                                                <a href="javascript:void(0)" class="hp-set">更多<s class="setArrow"></s></a>
+                                                <div class="hp-drapDown hp-moreNav-drapDown"><a href="https://shop311048929.taobao.com/" target="_blank">虎扑优选</a><a href="http://outdoor.hupu.com/" >户外</a><a href="http://run.hupu.com/" >健身</a><a href="http://ymq.hupu.com/" >羽毛球</a><a href="http://xgame.hupu.com/" target="_blank">xgames</a><a href="http://www.nflchina.com/" target="_blank">NFL</a><s class="arrow-top"><s class="arrowbd"></s></s>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="hp-subNav">
+    <ul class="hp-subNav-item">
+        <li><a title="虎扑篮球" target="_blank" href="https://nba.hupu.com">首页</a></li>
+        <li class="line">|</li>
+        <li class="hp-dropDownMenu">
+            <a target="_blank"  href="https://voice.hupu.com/nba">新闻</a>
+        </li>
+        <li class="line">|</li>
+        <li class="hp-dropDownMenu">
+            <a href="https://nba.hupu.com/games" class="hp-set" target="_blank">比赛中心</a>
+            <div class="hp-drapDown">
+                <a href="https://nba.hupu.com/standings" target="_blank">战绩排行</a>
+                <s class="arrow-top"><s class="arrowbd"></s></s>
+            </div>
+        </li>
+        <li class="line">|</li>
+        <li class="hp-dropDownMenu">
+            <a href="https://nba.hupu.com/schedule" class="hp-set" target="_blank">赛程</a>
+            <div class="hp-drapDown">
+                <a href="https://nba.hupu.com/schedule" target="_blank">NBA赛程</a>
+                <a href="https://nba.hupu.com/schedule/cavaliers" target="_blank">骑士赛程</a>
+                <a href="https://nba.hupu.com/schedule/warriors" target="_blank">勇士赛程</a>
+                <a href="https://nba.hupu.com/schedule/spurs" target="_blank">马刺赛程</a>
+                <a href="https://nba.hupu.com/schedule/lakers" target="_blank">湖人赛程</a>
+                <s class="arrow-top"><s class="arrowbd"></s></s>
+            </div>
+        </li>
+        <li class="line">|</li>
+        <li class="hp-dropDownMenu">
+            <a target="_blank" href="https://nba.hupu.com/teams" class="hp-set">球队</a>
+            <div class="hp-drapDown">
+                <a href="https://nba.hupu.com/teams/cavaliers" target="_blank">骑士</a>
+                <a href="https://nba.hupu.com/teams/lakers" target="_blank">湖人</a>
+                <a href="https://nba.hupu.com/teams/warriors" target="_blank">勇士</a>
+                <a href="https://nba.hupu.com/teams/spurs" target="_blank">马刺</a>
+                <a target="_blank" href="https://voice.hupu.com/nba">球队新闻</a>
+                <a target="_blank" href="https://nba.hupu.com/players">球队球员</a>
+                <a target="_blank" href="https://nba.hupu.com/stats/players">球员数据</a>
+                <a target="_blank" href="https://nba.hupu.com/stats/teams">球队数据</a>
+                <s class="arrow-top"><s class="arrowbd"></s></s>
+            </div>
+        </li>
+        <li class="line">|</li>
+        <li><a href="https://nba.hupu.com/draft/"  target="_blank">选秀</a></li>
+        <li class="line">|</li>
+        <li><a href="https://bbs.hupu.com/streetball"  target="_blank">街球</a></li>
+        <li class="line">|</li>
+        <li class="hp-dropDownMenu">
+            <a target="_blank" href="https://bbs.hupu.com/all-nba" class="hp-set">NBA论坛</a>
+            <div class="hp-drapDown">
+                <a target="_blank" href="https://bbs.hupu.com/cavaliers">骑士</a>
+                <a target="_blank" href="https://bbs.hupu.com/warriors">勇士</a>
+                <a target="_blank" href="https://bbs.hupu.com/spurs">马刺</a>
+                <a target="_blank" href="https://bbs.hupu.com/lakers">湖人</a>
+                <a target="_blank" href="https://bbs.hupu.com/thunder">雷霆</a>
+                <a target="_blank" href="https://bbs.hupu.com/celtics">凯尔特人</a>
+                <a target="_blank" href="https://bbs.hupu.com/nba">篮球场</a>
+                <a target="_blank" href="https://bbs.hupu.com/vote">湿乎乎的话题</a>
+                <a target="_blank" href="https://bbs.hupu.com/shenlan">深篮讨论</a>
+                <a target="_blank" href="https://bbs.hupu.com/hbl">耐克高中联赛</a>
+                <s class="arrow-top"><s class="arrowbd"></s></s>
+            </div>
+        </li>
+    </ul>
+</div>
+
+                                <i class="hp-roundPoint-br-tl roundPoint-br-tl"></i>
+                                <i class="hp-roundPoint-br-tr roundPoint-br-tr"></i>
+                                <i class="hp-roundPoint-br-bl roundPoint-br-bl"></i>
+                                <i class="hp-roundPoint-br-br roundPoint-br-br"></i>
+                            </div>
+                        </div>
+
+<div class="gamecenter_livestart">
+<div class="bgs_png" style="display:none;"></div>
+<div class="hp-threeNav">
+<div class="hp-threeNav-bd">
+<ul class="hp-threeNav-item">
+<li class=""><a href="https://nba.hupu.com/games">比赛中心</a></li>
+<li class=""><a href="https://nba.hupu.com/standings">战绩排行</a></li>
+<li class=""><a href="https://nba.hupu.com/stats/players">数据排名</a></li>
+<li class=""><a href="https://nba.hupu.com/schedule">比赛赛程</a></li>
+<li class=""><a href="https://nba.hupu.com/teams">球队</a></li>
+<li class="on"><a href="https://nba.hupu.com/players">球员</a></li>
+</ul>
+</div>
+<div class="hp-search">
+<form id="hp-form-search" method="get" enctype="multipart/form-data" action="//my.hoopchina.com/search">
+<input type="text" value="搜索视频、帖子、碎碎念" class="it-search">
+<input type="submit" value="搜索" class="btn-search">
+</form>
+<div id="hp-search-choose" class="hp-search-choose" style="display: none;"></div></div>
+</div>
+<div class="players_left" style="margin-bottom:10px;">
+<div class="players_left" style="margin-bottom:10px;">
+<div class="title">西南赛区</div>
+<ul class="players_list">
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/b72de688b7833a63.png"><span class="team_name"><a href="https://nba.hupu.com/players/rockets">休斯顿火箭</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/e27275cb4a9cf56f.png"><span class="team_name"><a href="https://nba.hupu.com/players/mavericks">达拉斯独行侠</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/906d3cb1d084d39b.png"><span class="team_name"><a href="https://nba.hupu.com/players/grizzlies">孟菲斯灰熊</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                    class="on"        >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/d61472f27405ef2f.png"><span class="team_name"><a href="https://nba.hupu.com/players/spurs">圣安东尼奥马刺</a></span>
+<div class="bgs"
+                            style="display: block"            ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/c5d7ee3d3999e1a3.png"><span class="team_name"><a href="https://nba.hupu.com/players/pelicans">新奥尔良鹈鹕</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+</ul>
+<div class="title">太平洋赛区</div>
+<ul class="players_list">
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/4f04d1b4f8a6548a.png"><span class="team_name"><a href="https://nba.hupu.com/players/lakers">洛杉矶湖人</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/0d6670544d67158b.png"><span class="team_name"><a href="https://nba.hupu.com/players/clippers">洛杉矶快船</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/54b9b9a860d5000d.png"><span class="team_name"><a href="https://nba.hupu.com/players/kings">萨克拉门托国王</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/0e9dc75130b041bb.png"><span class="team_name"><a href="https://nba.hupu.com/players/suns">菲尼克斯太阳</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/e6d876b019135540.png"><span class="team_name"><a href="https://nba.hupu.com/players/warriors">金州勇士</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+</ul>
+<div class="title">西北赛区</div>
+<ul class="players_list">
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/07eaaf35f02b3a43.png"><span class="team_name"><a href="https://nba.hupu.com/players/nuggets">丹佛掘金</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/42e1e1f96e72c9e7.png"><span class="team_name"><a href="https://nba.hupu.com/players/jazz">犹他爵士</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/3d06df3d7207e41b.png"><span class="team_name"><a href="https://nba.hupu.com/players/thunder">俄克拉荷马城雷霆</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/079f9b6b4be966c1.png"><span class="team_name"><a href="https://nba.hupu.com/players/blazers">波特兰开拓者</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/171d8fbb81947872.png"><span class="team_name"><a href="https://nba.hupu.com/players/timberwolves">明尼苏达森林狼</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+</ul>
+<div class="title">大西洋赛区</div>
+<ul class="players_list">
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/8143ce5275f35b64.png"><span class="team_name"><a href="https://nba.hupu.com/players/raptors">多伦多猛龙</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/58ad76e5013f88cd.png"><span class="team_name"><a href="https://nba.hupu.com/players/celtics">波士顿凯尔特人</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/b4f0980fef76de22.png"><span class="team_name"><a href="https://nba.hupu.com/players/76ers">费城76人</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/8fb395595fe476f7.png"><span class="team_name"><a href="https://nba.hupu.com/players/nets">布鲁克林篮网</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/d1497fa2d3158da7.png"><span class="team_name"><a href="https://nba.hupu.com/players/knicks">纽约尼克斯</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+</ul>
+<div class="title">东南赛区</div>
+<ul class="players_list">
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/584ff80b87a21cd8.png"><span class="team_name"><a href="https://nba.hupu.com/players/heat">迈阿密热火</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/6c8eb942322783b9.png"><span class="team_name"><a href="https://nba.hupu.com/players/magic">奥兰多魔术</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/a76937b225c20218.png"><span class="team_name"><a href="https://nba.hupu.com/players/wizards">华盛顿奇才</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/30772edf038d248d.png"><span class="team_name"><a href="https://nba.hupu.com/players/hornets">夏洛特黄蜂</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/1c4b8d2d45a649b9.png"><span class="team_name"><a href="https://nba.hupu.com/players/hawks">亚特兰大老鹰</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+</ul>
+<div class="title">中部赛区</div>
+<ul class="players_list">
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/7091f8420b800878.png"><span class="team_name"><a href="https://nba.hupu.com/players/bucks">密尔沃基雄鹿</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/83b033b5c036f590.png"><span class="team_name"><a href="https://nba.hupu.com/players/pacers">印第安纳步行者</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/0d490533faca1986.png"><span class="team_name"><a href="https://nba.hupu.com/players/bulls">芝加哥公牛</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/86e9f9cbf13706fb.png"><span class="team_name"><a href="https://nba.hupu.com/players/pistons">底特律活塞</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+<li
+                            >
+<img src="https://gdc.hupucdn.com/gdc/nba/team/logo/b88b9d38a6685d3c.png"><span class="team_name"><a href="https://nba.hupu.com/players/cavaliers">克利夫兰骑士</a></span>
+<div class="bgs"
+                                        ></div>
+</li>
+</ul>
+</div>
+</div>
+<div class="players_right" style="margin-bottom:10px;">
+<table class="players_table" style="display:block;">
+<tbody>
+<tr class="title">
+<td width="102"></td>
+<td width="110">姓名</td>
+<td width="30">号码</td>
+<td width="40">位置</td>
+<td width="75">身高</td>
+<td width="70">体重</td>
+<td width="70">生日</td>
+<td width="105">合同</td>
+</tr>
+<tr>
+<td class="td_padding">
+<a href="https://nba.hupu.com/players/demarderozan-3314.html" target="_blank">
+<img src="https://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/5c1e092c0a75a24bb6e4bf2047f01d8c.png">
+</a>
+</td>
+<td class="left">
+<b><a target="_blank" href="https://nba.hupu.com/players/demarderozan-3314.html">德马尔-德罗赞</a></b>
+<p>(<b>DeMar DeRozan</b>)</p>
+</td>
+<td>10</td>
+<td>G-F</td>
+<td>1.98米/6尺6</td>
+<td>100公斤/220磅</td>
+<td>1989-08-07</td>
+<td class="left">5年1.39亿，2016年夏天签<br><b>本年薪金：2773万美元</b></td>
+</tr>
+<tr>
+<td class="td_padding">
+<a href="https://nba.hupu.com/players/lamarcusaldridge-1209.html" target="_blank">
+<img src="https://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/ad7c5df541a337f82cfff057f6a368e7.png">
+</a>
+</td>
+<td class="left">
+<b><a target="_blank" href="https://nba.hupu.com/players/lamarcusaldridge-1209.html">拉马库斯-阿尔德里奇</a></b>
+<p>(<b>LaMarcus Aldridge</b>)</p>
+</td>
+<td>12</td>
+<td>C-F</td>
+<td>2.11米/6尺11</td>
+<td>113公斤/250磅</td>
+<td>1985-07-19</td>
+<td class="left">2017年10月以3年7230万美元提前续约，2018年夏天生效，2021年到期，如果2020年6月29日之前被裁，则2020-21赛季只有700万美元保障，合同包含15%交易保证金<br><b>本年薪金：2600万美元</b></td>
+</tr>
+<tr>
+<td class="td_padding">
+<a href="https://nba.hupu.com/players/rudygay-1202.html" target="_blank">
+<img src="https://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/f868aecdbfe7dd7cb70017a0f318d8fe.png">
+</a>
+</td>
+<td class="left">
+<b><a target="_blank" href="https://nba.hupu.com/players/rudygay-1202.html">鲁迪-盖伊</a></b>
+<p>(<b>Rudy Gay</b>)</p>
+</td>
+<td>22</td>
+<td>F-G</td>
+<td>2.03米/6尺8</td>
+<td>113公斤/250磅</td>
+<td>1986-08-17</td>
+<td class="left">2年3200万美元，2019年夏天签，2021年到期<br><b>本年薪金：1560万美元</b></td>
+</tr>
+<tr>
+<td class="td_padding">
+<a href="https://nba.hupu.com/players/pattymills-3353.html" target="_blank">
+<img src="https://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/467c29d6804e61f5c3caeb969eff9417.png">
+</a>
+</td>
+<td class="left">
+<b><a target="_blank" href="https://nba.hupu.com/players/pattymills-3353.html">帕蒂-米尔斯</a></b>
+<p>(<b>Patty Mills</b>)</p>
+</td>
+<td>8</td>
+<td>G</td>
+<td>1.85米/6尺1</td>
+<td>82公斤/180磅</td>
+<td>1988-08-11</td>
+<td class="left">4年4800万美元，2017年夏天签<br><b>本年薪金：1243万美元</b></td>
+</tr>
+<tr>
+<td class="td_padding">
+<a href="https://nba.hupu.com/players/demarrecarroll-3387.html" target="_blank">
+<img src="https://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/1d102d2a998e3bfe1c0dc49b56a64e59.png">
+</a>
+</td>
+<td class="left">
+<b><a target="_blank" href="https://nba.hupu.com/players/demarrecarroll-3387.html">德马雷-卡罗尔</a></b>
+<p>(<b>DeMarre Carroll</b>)</p>
+</td>
+<td>77</td>
+<td>F</td>
+<td>1.98米/6尺6</td>
+<td>98公斤/215磅</td>
+<td>1986-07-27</td>
+<td class="left">3年2065万美元，2019年夏天签，2022年夏天到期<br><b>本年薪金：666万美元</b></td>
+</tr>
+<tr>
+<td class="td_padding">
+<a href="https://nba.hupu.com/players/marcobelinelli-1347.html" target="_blank">
+<img src="https://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/77d936d69863faaeab0ad77e0079a544.png">
+</a>
+</td>
+<td class="left">
+<b><a target="_blank" href="https://nba.hupu.com/players/marcobelinelli-1347.html">马科-贝里内利</a></b>
+<p>(<b>Marco Belinelli</b>)</p>
+</td>
+<td>18</td>
+<td>G</td>
+<td>1.96米/6尺5</td>
+<td>100公斤/220磅</td>
+<td>1986-03-25</td>
+<td class="left">2年1200万美元，2018年夏天签<br><b>本年薪金：585万美元</b></td>
+</tr>
+<tr>
+<td class="td_padding">
+<a href="https://nba.hupu.com/players/treylyles-150059.html" target="_blank">
+<img src="https://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/88c0a61427b8c5312f1f9e45515df877.png">
+</a>
+</td>
+<td class="left">
+<b><a target="_blank" href="https://nba.hupu.com/players/treylyles-150059.html">特雷-莱尔斯</a></b>
+<p>(<b>Trey Lyles</b>)</p>
+</td>
+<td>41</td>
+<td>F</td>
+<td>2.06米/6尺9</td>
+<td>106公斤/234磅</td>
+<td>1995-11-05</td>
+<td class="left">2年1100万美元，2019年夏天签，2021年夏天到期<br><b>本年薪金：550万美元</b></td>
+</tr>
+<tr>
+<td class="td_padding">
+<a href="https://nba.hupu.com/players/jakobpoeltl-150170.html" target="_blank">
+<img src="https://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/124325a44b69b901b74943e1da549413.png">
+</a>
+</td>
+<td class="left">
+<b><a target="_blank" href="https://nba.hupu.com/players/jakobpoeltl-150170.html">雅各布-珀尔特尔</a></b>
+<p>(<b>Jakob Poeltl</b>)</p>
+</td>
+<td>25</td>
+<td>C</td>
+<td>2.16米/7尺1</td>
+<td>111公斤/245磅</td>
+<td>1995-10-15</td>
+<td class="left">新秀合同，4年1223万美元，2016年夏天签，2020年夏天到期<br><b>本年薪金：375万美元</b></td>
+</tr>
+<tr>
+<td class="td_padding">
+<a href="https://nba.hupu.com/players/brynforbes-150385.html" target="_blank">
+<img src="https://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/778870f305000627f4b5aa8f37be8b9a.png">
+</a>
+</td>
+<td class="left">
+<b><a target="_blank" href="https://nba.hupu.com/players/brynforbes-150385.html">布林-福布斯</a></b>
+<p>(<b>Bryn Forbes</b>)</p>
+</td>
+<td>11</td>
+<td>G</td>
+<td>1.88米/6尺2</td>
+<td>93公斤/205磅</td>
+<td>1993-07-23</td>
+<td class="left">2年600万美元，2018年夏天签，2020年夏天到期<br><b>本年薪金：287万美元</b></td>
+</tr>
+<tr>
+<td class="td_padding">
+<a href="https://nba.hupu.com/players/lonniewalker-150965.html" target="_blank">
+<img src="https://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/fa4b028e426793f39c2ea002dfa758a9.png">
+</a>
+</td>
+<td class="left">
+<b><a target="_blank" href="https://nba.hupu.com/players/lonniewalker-150965.html">朗尼-沃克</a></b>
+<p>(<b>Lonnie Walker</b>)</p>
+</td>
+<td>1</td>
+<td>G-F</td>
+<td>1.96米/6尺5</td>
+<td>93公斤/204磅</td>
+<td>1998-12-14</td>
+<td class="left">4年1246万美元，2018年夏天签，2022年夏天到期，2020年和2021年球队选项<br><b>本年薪金：276万美元</b></td>
+</tr>
+<tr>
+<td class="td_padding">
+<a href="https://nba.hupu.com/players/lukasamanic-151734.html" target="_blank">
+<img src="https://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/54f1d863aa28332d132645f823c70a67.png">
+</a>
+</td>
+<td class="left">
+<b><a target="_blank" href="https://nba.hupu.com/players/lukasamanic-151734.html">卢卡-沙马尼奇</a></b>
+<p>(<b>Luka Samanic</b>)</p>
+</td>
+<td>19</td>
+<td>F</td>
+<td>2.08米/6尺10</td>
+<td>103公斤/227磅</td>
+<td>2000-01-09</td>
+<td class="left">新秀合同，2019年夏天签，2023年到期，2022年，2023年球队选项<br><b>本年薪金：268万美元</b></td>
+</tr>
+<tr>
+<td class="td_padding">
+<a href="https://nba.hupu.com/players/dejountemurray-150181.html" target="_blank">
+<img src="https://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/8e14c7aa4554ed540819caea13cba15d.png">
+</a>
+</td>
+<td class="left">
+<b><a target="_blank" href="https://nba.hupu.com/players/dejountemurray-150181.html">德章泰-默里</a></b>
+<p>(<b>Dejounte Murray</b>)</p>
+</td>
+<td>5</td>
+<td>G</td>
+<td>1.93米/6尺4</td>
+<td>82公斤/180磅</td>
+<td>1996-09-19</td>
+<td class="left">新秀合同，4年635万美元，2016年夏天签，2020年夏天到期。2019年10月以4年6400万美元提前续约，2024年夏天到期<br><b>本年薪金：232万美元</b></td>
+</tr>
+<tr>
+<td class="td_padding">
+<a href="https://nba.hupu.com/players/keldonjohnson-151710.html" target="_blank">
+<img src="https://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/8cc164141b16fe6e5f236d47fa3bcc8e.png">
+</a>
+</td>
+<td class="left">
+<b><a target="_blank" href="https://nba.hupu.com/players/keldonjohnson-151710.html">凯尔登-约翰逊</a></b>
+<p>(<b>Keldon Johnson</b>)</p>
+</td>
+<td>3</td>
+<td>F-G</td>
+<td>1.96米/6尺5</td>
+<td>100公斤/220磅</td>
+<td>1999-11-20</td>
+<td class="left">4年1001万美元，2019年夏天签，2023年夏天到期，2021-22、2022-23赛季球队选项<br><b>本年薪金：195万美元</b></td>
+</tr>
+<tr>
+<td class="td_padding">
+<a href="https://nba.hupu.com/players/derrickwhite-150480.html" target="_blank">
+<img src="https://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/43002b2ed4a934330dd33129faea927a.png">
+</a>
+</td>
+<td class="left">
+<b><a target="_blank" href="https://nba.hupu.com/players/derrickwhite-150480.html">德里克-怀特</a></b>
+<p>(<b>Derrick White</b>)</p>
+</td>
+<td>4</td>
+<td>G</td>
+<td>1.93米/6尺4</td>
+<td>86公斤/190磅</td>
+<td>1994-07-02</td>
+<td class="left">4年854万美元，2017年夏天签，2021年夏天到期，2019-20、2020-21赛季球队选项<br><b>本年薪金：195万美元</b></td>
+</tr>
+<tr>
+<td class="td_padding">
+<a href="https://nba.hupu.com/players/chimeziemetu-150958.html" target="_blank">
+<img src="https://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/69002fecc7a1ed6d5415e47f644b94a5.png">
+</a>
+</td>
+<td class="left">
+<b><a target="_blank" href="https://nba.hupu.com/players/chimeziemetu-150958.html">奇梅齐耶-梅图</a></b>
+<p>(<b>Chimezie Metu</b>)</p>
+</td>
+<td>7</td>
+<td>F-C</td>
+<td>2.06米/6尺9</td>
+<td>102公斤/225磅</td>
+<td>1997-03-22</td>
+<td class="left">3年391万美元，2018年夏天签，2021年夏天到期<br><b>本年薪金：142万美元</b></td>
+</tr>
+<tr>
+<td class="td_padding">
+<a href="https://nba.hupu.com/players/dreweubanks-151424.html" target="_blank">
+<img src="https://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/3855af879f61887bb77bdf8b431fe4f3.png">
+</a>
+</td>
+<td class="left">
+<b><a target="_blank" href="https://nba.hupu.com/players/dreweubanks-151424.html">德鲁-尤班克斯</a></b>
+<p>(<b>Drew Eubanks</b>)</p>
+</td>
+<td>14</td>
+<td>F-C</td>
+<td>2.06米/6尺9</td>
+<td>111公斤/245磅</td>
+<td>1997-02-01</td>
+<td class="left">双向合同<br><b>本年薪金：7万美元</b></td>
+</tr>
+<tr>
+<td class="td_padding">
+<a href="https://nba.hupu.com/players/quinndaryweatherspoon-151764.html" target="_blank">
+<img src="https://gdc.hupucdn.com/gdc/nba/players/uploads/gamespace/players/2bd2f2bcb94c183417246caa1a3a653d.png">
+</a>
+</td>
+<td class="left">
+<b><a target="_blank" href="https://nba.hupu.com/players/quinndaryweatherspoon-151764.html">奎因达里-韦瑟斯庞</a></b>
+<p>(<b>Quinndary Weatherspoon</b>)</p>
+</td>
+<td>15</td>
+<td>G</td>
+<td>1.91米/6尺3</td>
+<td>93公斤/205磅</td>
+<td>1996-09-10</td>
+<td class="left">双向合同，2019年夏天签<br><b>本年薪金：7万美元</b></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="hp-footer">
+                    <div class="hp-copyright">虎扑（上海）文化传播股份有限公司 <a href="https://www.hupu.com/icp.html" target="_blank">沪B2-20120042</a> <a target="_blank" href="http://beian.miit.gov.cn/">沪ICP备05037078号-13</a></div>
+                    <div class="hp-copyright">
+
+                    Copyright by 虎扑JRs &amp;
+                    <a href="https://www.hupu.com/" target="_blank" title="虎扑">虎扑</a> -
+                    <a href="https://m.hupu.com/" target="_blank">手机虎扑网</a> -
+                    <a href="https://mobile.hupu.com/" target="_blank">虎扑App</a> -
+                    <a href="https://www.hupu.com/policies/terms" target="_blank">服务协议</a> -
+                    <a href="https://www.hupu.com/sitemap.html" target="_blank">网站地图</a> -
+                    <a href="https://nba.hupu.com/" target="_blank" title="NBA">NBA</a> -
+                    <a href="https://cba.hupu.com/" target="_blank" title="CBA">CBA</a>  -
+                    <a href="https://soccer.hupu.com/" target="_blank" title="足球">足球</a> -
+                    <a href="https://soccer.hupu.com/china/" target="_blank" title="中超">中超</a>
+                    </div>
+                    <div class="securityPic">
+                    <a href="http://www.jhga.gov.cn/" target="_blank"><img src="https://b3.hoopchina.com.cn/images/wl_wljga.png" alt="金华市公安局网络报警"></a>
+                    <a href="http://www.zx110.org" target="_blank"><img src="https://b3.hoopchina.com.cn/images/wl_wlshzxw.png" alt="网络社会征信网"></a>
+                    <a href="http://www.shjbzx.cn/" target="_blank"><img src="https://b3.hoopchina.com.cn/images/www_jubao.png" alt="上海网络举报图片"></a>
+
+                    <a  id="_pingansec_bottomimagelarge_brand"  href="//si.trustutn.org/info?sn=159190710038363897698&certType=1"><img  src="//v.trustutn.org/images/cert/brand_bottom_large.jpg"/></a>
+
+                    <a href="http://report.12377.cn:13225/toreportinputNormal_anis.do" target="_blank"><img src="https://w1.hoopchina.com.cn/images/pc/www_cn_jubao.png" alt="有害信息举报图片"></a>
+                    <img src="https://w1.hoopchina.com.cn/images/pc/www_jubao_new_1.png" alt="虎扑举报图片">
+                    </div>
+                </div>
+</body><script type="text/javascript" src="//w3.hoopchina.com.cn/channel/gamespace/static/common/pkg/lib_04981b5.js"></script>
+<script type="text/javascript" src="//w2.hoopchina.com.cn/channel/gamespace/static/common/js/center_113cb6f.js"></script>
+<script type="text/javascript">var __ready = [];__ready.push(function(){        //dace统计
+        var __daceDataNameOfChannel = 'nba';
+
+        //公共头尾
+      window._common && _common.init({project:"nba"});
+        <!-- _common.init({project:"nba"}); -->
+
+        //baidu统计
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "//hm.baidu.com/hm.js?2eb807cf60e3295559f967a907218f33";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(hm, s);
+        })();
+    });
+__ready.push(function(){    playersList.init();//队伍列表事件
+  });window.initEvent && window.initEvent();</script></html>
