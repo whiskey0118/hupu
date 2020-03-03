@@ -1,0 +1,17 @@
+def extreme_insertion_index( nums, target, left):
+    lo = 0
+    hi = len(nums)
+
+    while lo < hi:
+        mid = (lo + hi) // 2
+        if nums[mid] > target or (left and target == nums[mid]):
+            hi = mid
+            print(hi)
+        else:
+            lo = mid + 1
+            print(lo)
+
+    return lo
+
+
+print(extreme_insertion_index([1,2,5,5,5,9],5,True))

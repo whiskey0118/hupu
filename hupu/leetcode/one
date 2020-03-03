@@ -1,0 +1,13 @@
+#判断两个字符串重组后是否相等
+def one(s1,s2):
+    base = set(s1+s2)
+    if len(s1) != len(s2):
+        return "False"
+
+    for i in base:
+        if s1.count(i) != s1.count(i):
+            return "False"
+    return "True"
+
+
+print(one("abcd","abcdd"))

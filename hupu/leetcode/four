@@ -1,0 +1,11 @@
+def four(list,target):
+    s=len(list)//2
+    left = 0
+    right = len(list)
+    while left <right:
+        if list[s] == target:
+            a= target
+        if list[s]>target:
+            left = s+1
+        else:
+            right=s-1
